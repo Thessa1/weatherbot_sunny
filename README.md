@@ -8,7 +8,7 @@ Requirements installed:
 - separate virtual environment like anaconda
 
 Next steps:
-- Clone the project from Git: 
+- Clone the project from Git: https://github.com/Thessa1/weatherbot_sunny
 - Switch from base to virtual environment
 - Install the request package in your current rasa environment with<br>
 <i>$ pip install requests</i><br>
